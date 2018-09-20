@@ -1,0 +1,42 @@
+_repo: Vankina-Kaukaasiassa-Y-m-kertomuksia_53470
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Trast, V. K.
+    alias: Trast, Viktor Kustaa
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '43556'
+    url: http://www.gutenberg.org/2009/agents/43556
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoy, Lev N.
+    - Tolstoy, Graf Leo
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2016-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53470'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into Finnish'
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- GITenberg
+tableOfContents: Vankina Kaukaasiassa -- Paljonko ihminen tarvitsee maata? -- Kynttilä
+  -- Kipinästä suuri palo.
+title: Vankina Kaukaasiassa Y. m. kertomuksia
+url: http://www.gutenberg.org/ebooks/53470
