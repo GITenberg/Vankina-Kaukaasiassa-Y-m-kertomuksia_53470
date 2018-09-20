@@ -1,5 +1,5 @@
 _repo: Vankina-Kaukaasiassa-Y-m-kertomuksia_53470
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Trast, V. K.
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '43556'
     url: http://www.gutenberg.org/2009/agents/43556
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53470#Vankina-Kaukaasiassa-Y-m-kertomuksia
 gutenberg_issued: '2016-11-07'
 gutenberg_type: Text
 identifiers:
